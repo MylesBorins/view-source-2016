@@ -41,7 +41,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "post-install": "bower install"
+    "postinstall": "bower install"
   },
   "license": "MIT"
 }
